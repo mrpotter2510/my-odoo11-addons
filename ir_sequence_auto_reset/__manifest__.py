@@ -11,7 +11,7 @@
     """,
 
     'author': "mrpotter2510",
-    'version': '11.0',
+    'version': '1.0',
     'depends': ['base'],
     'application': False,
     'installable': True,
