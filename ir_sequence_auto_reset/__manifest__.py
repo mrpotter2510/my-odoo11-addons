@@ -12,6 +12,7 @@
 
     'author': "mrpotter2510",
     'version': '1.0',
+    'license': 'LGPL-3',
     'depends': ['base'],
     'application': False,
     'installable': True,
